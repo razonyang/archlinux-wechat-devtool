@@ -1,5 +1,7 @@
 # 微信开发者工具 for Arch Linux
 
+**上游仓库已经停止更新了，该软件包也将不再维护。**
+
 这个软件包已放在 [AUR](https://aur.archlinux.org/packages/wechat-devtool)，仅适用于 Arch Linux 及其衍生的发行版。
 其他 Linux 平台，请移步原工具仓库：[微信开发者工具 for Linux](https://github.com/cytle/wechat_web_devtools)。
 
